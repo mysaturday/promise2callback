@@ -1,6 +1,6 @@
 module.exports = function(promise, callback){
 
-  if(!promise){
+  if(!promise.then){
     throw new Error('Missing Promise')
   }
 
