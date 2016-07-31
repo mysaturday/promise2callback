@@ -1,0 +1,11 @@
+{
+  "name": "promise2callback",
+  "version": "1.0.0",
+  "description": "Call a callback when promise is resolved or rejected.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francesco Sirocco",
+  "license": "ISC"
+}
