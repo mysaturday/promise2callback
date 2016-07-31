@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Francesco Sirocco",
-  "license": "ISC"
+  "license": "ISC",
+"repository" :{ 
+    "type" : "git", 
+    "url" : "https://github.com/mysaturday/promise2callback.git"
+  },  
 }
